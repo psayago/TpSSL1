@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567491414 source:c:\users\psaya\desktop\tp1ssl\tp1ssl\main.c
+	<stdio.h>
+	<stdlib.h>
+
